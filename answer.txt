@@ -1,0 +1,11 @@
+Question 2. Explain the purpose of comments in HTML and provide an example of how to use comments in an HTML document?
+Answer: We are using comments in an HTML document (source code) to explain our html and good thing is that, comments are not render in the browsers. This comments will help you when you edit the source code after some couple of days.
+example: 
+    <!-- This is a comment -->
+    <h2>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem, sapiente.</h2>
+
+Question 4. Write a short note on Tag and element with an example?
+Answer: Tag is like keyword which defines that how web browser will format and display the content and some tags are followings like h1,a,p,div etc. Element is start from start tag and end to close tag for example <h1>This is heading</h1>
+
+Question 5. What is the DOCTYPE Declaration in HTML?
+Answer: DOCTYPE Declaration is an Information to the browser about what document type to expect and it is define as <!DOCTYPE> and all HTML documents should start with this Declaration.
